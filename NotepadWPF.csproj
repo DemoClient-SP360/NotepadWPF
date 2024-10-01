@@ -38,4 +38,8 @@
     </None>
   </ItemGroup>
 
+<ItemGroup>
+    <ProjectReference Include="..\..\..\DependentProj\DependentProj\DependentProj\DependentProj.csproj" />
+  </ItemGroup>
+
 </Project>
